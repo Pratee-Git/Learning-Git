@@ -5,4 +5,6 @@ if __name__ == '__main__':
     print('Learning Git')
     print('another change to learn branch')
     print('added branch learn-git')
-    print('Addning bad code . . ')
+
+    print('usefull code.')
+
