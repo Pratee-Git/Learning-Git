@@ -1,6 +1,6 @@
 # Learning Git
 Init
 diff
-'''python
+```python
 lst = [n for n in numbers if n%2 == 0]
-'''
+```
